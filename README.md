@@ -44,6 +44,6 @@ This project endeavors to construct a robust deep learning framework for precise
 ![image](https://github.com/Mattdozie/Design-Development-Analysis-and-Performance-Evaluation-of-Malaria-Parasite-Deep-Learning-algorithms/assets/100968289/3e8b9260-9682-4e57-9490-11b619b6e700)
 
 ## Report
-The final report for the project can be viewed (<a href="Malaria Detection Deep Learning Models.pdf">[HERE]</a>#)
+The final report for the project can be viewed (<a href="Malaria Detection Deep Learning Models.pdf">HERE</a>)
 
 ## Credits
