@@ -23,7 +23,7 @@ For this project, a dataset comprising 27,560 cell images in PNG format was gath
 The images were uploaded and processed by resizing them to 200x200 pixels and labelled accordingly (parasitized = 0, uninfected = 1). This preprocessing facilitated standardized image sizes for efficient model learning. The dataset was then divided into training and test sets in a 7:3 ratio, ensuring adequate data for model training and evaluation.
 
 ### Dataset
-The Dataset for this project can be downloaded from [Malaria Cell Images Dataset | Kaggle](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria).
+The Dataset for this project can be downloaded from [Malaria Cell Images Dataset](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
 
 ## Installation
 <div>
